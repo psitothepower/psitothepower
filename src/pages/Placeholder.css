@@ -1,0 +1,48 @@
+.Placeholder a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.Placeholder-section {
+  height: 100vh;
+  padding: 1.5rem;
+}
+
+.Placeholder-section p {
+  margin-bottom: 1rem;
+}
+
+.Placeholder-section h1 {
+  font-family: 'BebasNeue', sans-serif;
+  font-weight: 800;
+  font-size: 1.5rem;
+  line-height: 2rem;
+  margin-bottom: 2.5rem;
+}
+
+.Placeholder-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.Placeholder-index-panel {
+  margin-bottom: 2.5rem;
+  font-size: 1.25rem;
+  line-height: 1.75rem;
+}
+
+.Placeholder-call-to-action {
+  margin-bottom: 2.5rem;
+  font-size: 3rem;
+  line-height: 1;
+}
+
+.Placeholder-index-icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Placeholder-index-icons a.last {
+  margin-left: 1rem;
+}

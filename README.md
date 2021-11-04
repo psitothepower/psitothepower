@@ -1,5 +1,5 @@
 # PSI to the Power
-### The wave that synchronizes compassionate minds to a rhythm and moving bodies to a movement.
+### Connects compassionate minds to a rhythm and dancing bodies to a movement.
 
 The gap between science and eastern spiritual tradition is closing down, more and more people are rejecting the polarization fueled by traditional institutions.
 

@@ -36,8 +36,8 @@ If the project takes off, we will try to ask for original videos and find ways t
 ### Tech stack and Roadmap
 First Stage: Cheap startup:
 
-- Building a static html page to test hosting, CDN and SSL
-- Converting the project to ReactJS and TypeScript
-- Creating a mock server to expose static json data to activate playback as soon as possible
-- Build venue dynamic page
-- Enable forms to allow dancers to suggest Sets, DJs and channels for each venues and in general
+- [x] Building a static html page to test hosting, CDN and SSL
+- [x] Converting the project to ReactJS and TypeScript
+- [ ] Creating a mock server to expose static json data
+- [ ] Build venue dynamic page connected to mock data
+- [ ] Enable forms to allow dancers to suggest Sets, DJs and channels for each venues and in general
